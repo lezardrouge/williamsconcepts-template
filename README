@@ -1,1 +1,2 @@
 This is the old, original version of Williamsconcepts template library for Code Igniter. Works with CI < 3.0.0
+To use it with CI 3.0, please use librairies/Template_CI3.php, rename it into Template.php
